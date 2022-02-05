@@ -1,5 +1,4 @@
-<center>
+<div align="center">
 <h1>Zacros Team Statistics</h1>
-</center>
-
-![informasi](profile/informasi1.svg)
+<p> Statistics Team </p>
+</div>
