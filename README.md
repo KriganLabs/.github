@@ -3,6 +3,4 @@
 <p> Statistics Team </p>
 </div>
 
-![Zacros github stats](https://github-readme-stats.vercel.app/api?username=Zacros-Team&show_icons=true&theme=tokyonight
-
 ![informasi](profile/informasi1.svg)
