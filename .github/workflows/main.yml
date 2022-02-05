@@ -14,7 +14,7 @@ jobs:
         with:
           # pakai token
           token: ${{ secrets.METRICS }}
-          user: bellshade
+          user: zacros-team
           
           # set template
           template: classic
