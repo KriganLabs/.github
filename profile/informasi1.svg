@@ -87,9 +87,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.5202770271708" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="240.5202770271708" y="0" width="177.26811563366596" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.78839266083673" y="0" width="42.211607339163244" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.54629817278175" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="240.54629817278175" y="0" width="177.31654585214287" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="417.8628440249246" y="0" width="42.13715597507542" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -112,7 +112,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>9.18%</div>
+                                <div>9.16%</div>
                             </small>
                         </div>
                     </section>
@@ -125,7 +125,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>38.54%</div>
+                                <div>38.55%</div>
                             </small>
                         </div>
                     </section>
@@ -206,7 +206,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 21 Feb 2022, 22:18:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 23:22:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
